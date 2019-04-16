@@ -2,6 +2,12 @@
   "name": "learn-js",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+
+  },
   "devDependencies": {
     "jest": "^24.7.1"
   }
