@@ -15,5 +15,4 @@ test('called with empty parameters should return 0', () => {
 
 test('Dor case', () => {
   expect(wc("whoever is the who that who's there", "who")).toBe(1)
-  expect(wc("whoever is the who that who's there", "who")).toBe(2)
 })
